@@ -32,3 +32,7 @@ https://live.factoriadeficcion.com/hls/live/2005336/fdf/bitrate_4.m3u8
 https://live.energytv.es/hls/live/2005337/energy/bitrate_4.m3u8
 #EXTINF:-1 group-title="Canales del TDT" tvg-name="Divinity", Divinity 
 https://live.divinity.es/hls/live/2005335/divinity/bitrate_4.m3u8
+#EXTINF:-1 group-title="Canales del TDT" tvg-name="HBO +", HBO +
+https://zdxetcjzkybpxicr.wzcdn804.net:8443/hls/3dgzjbpy.m3u8?s=7pxetHgQxPhQAJMJ2-sTow&e=1634086658
+#EXTINF:-1 group-title="Canales del TDT" tvg-name="AXN", AXN
+https://zdxetcjzkybpxicr.wzcdn804.net:8443/hls/l051rl.m3u8?s=u892I_KetSWd1reVqUjudA&e=1634087143
