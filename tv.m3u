@@ -11,21 +11,3 @@ https://rtvelivestreamv3.akamaized.net/rtvesec/tdp_bkp_dvr.m3u8
 https://rtvelivestreamv3.akamaized.net/clan_main_dvr.m3u8
 #EXTINF:-1 group-title="Canales del TDT" tvg-name="Peque TV", Peque TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 group-title="Canales del TDT" tvg-name="Antena 3", Antena 3
-https://directo.atresmedia.com/42631b213d8fe03c1b999f0b20bd8d0f9acf6f29_1633050442/antena3/bitrate_3.m3u8
-#EXTINF:-1 group-title="Canales del TDT" tvg-name="La Sexta", La Sexta
-https://directo.atresmedia.com/a8e5334efe5d99cc59568d865c50667ce5a5b5e0_1633050536/lasexta/bitrate_3.m3u8
-#EXTINF:-1 group-title="Canales del TDT" tvg-name="Telecinco", Telecinco
-https://live.telecinco.es/hls/live/2004101/telecinco/bitrate_4.m3u8
-#EXTINF:-1 group-title="Canales del TDT" tvg-name="Cuatro", Cuatro
-https://vod.cuatro.com/hls/VOD/f245fccf-fecf-49f3-84c5-dbdd02beb3c4/f245fccf-fecf-49f3-84c5-dbdd02beb3c4.,500,900,1620,.mp4.csmil/index-f3-v1-a1.m3u8
-#EXTINF:-1 group-title="Canales del TDT" tvg-name="Antena 3", Factoria de Ficcion
-https://live.factoriadeficcion.com/hls/live/2005336/fdf/bitrate_4.m3u8
-#EXTINF:-1 group-title="Canales del TDT" tvg-name="Mega", Mega
-https://directo.atresmedia.com/f83427d7d3fbbaf6306cfe10e69e9d64a08e9694_1633050962/geomega/bitrate_3.m3u8
-#EXTINF:-1 group-title="Canales del TDT" tvg-name="Discovery Home & Health", Discovery Home & Health
-https://zdxetcjzkybpxicr.wzcdn804.net:8443/hls/adtxiz8zv.m3u8?s=_wDDYoyqoeHoeb2WsQ47Yg&e=1633043945
-#EXTINF:-1 group-title="Canales del TDT" tvg-name="Warner Channel", Warner Channel
-https://zdxetcjzkybpxicr.wzcdn804.net:8443/hls/j5uwhfb7w5c.m3u8?s=O6og-2tZ7Oof6XcqX1y_Rg&e=1633044465
-#EXTINF:-1 group-title="Canales del TDT" tvg-name="History", History
-https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CvEE7da_Sum2zirEG3bG1YstYCNluxdcXIvGPec4GCLyvnWNn8haZz7hhKXgY0AmpLGILQ7sZrZuYnynTXNThCmWUD_P_QzQduFTB6czgZuy5IM5esAdz9UPHB6kBFEA0FkgHPl-DO9ZMC-6oC-g3RNlZnKHwppqYi6bVhGzIIh-bBVnRn1M1AHK3PnmmGiNimOB18iEvngcFKyH6MyfDVEK8ZMX1q6M4zgFUlSdkgnm9JFZKqepUb6U24aZ2JBjGm9FICHvJg4j_nGXb6G3eMpPK3Ghkq_QbCNP1JMliF6NAw4kGkbw72FTbxWx4Z8jYiv3FsyDe1KNmkCgrELewr8gVcznWurXioQWWd2QgGGpy7lyBbRRRuqweI3myoP9wyV2-0fR2wjf9yR1ykWRPhUZS7ZRb1SYxqko-tvehptHUkijUa-ZMY0lpt11LlPfHpGx5b1HVuUfItR_uTot_s1PAhch4b6ILcIGWZ6l7tYcN2vkxIR1QG2pQYX7GmorcdpLrnooPwvIXY48ACnhFfEeI3muVohVoC2bljpGyJ5gg9IcTOD-Dywg-mZjxh8hasST8xTv1OG9LsVz3539TI_M6ojY7BUCW8yGF5tA98U0I5-y88IFQ-0sCBnENrU2VCZ8EoCBATCgzsCc0FjeBCbfwkbWYm109FoyvuoJost7PwDtm1T2h-7S9GeGI2W9hgoTfnxKQm2QDG5ZnKQwEz4zbSBTOcDeeKvSv89hPP8K-ampV9ONf3pq_uhAXTVWNe71gu7JCdPFzIlbLMbHPNSkhryBi1iaWAGP9SP2e3S7ltGeNbkYIIQR_V-myjSQTo-xJhIQBUbu0SiakAo5il54Ql05ZhoM-XInwU9HkJEYISr1.m3u8
