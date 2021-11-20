@@ -1,5 +1,4 @@
-#EXTM3U @LaQuay https://github.com/LaQuay/TDTChannels
-
+#EXTM3U
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
 https://rtvelivestreamv3.akamaized.net/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
@@ -116,9 +115,6 @@ https://prisaradio-live.prisasd.com/live-content/directo40al1/master.m3u8
 https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="7Andalucia.TV" tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="Andalucía" tvg-name="7TV Andalucía",7TV Andalucía
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835804/master.m3u8
-
-
-
 #EXTINF:-1 tvg-id="TVGA.TV" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="Int. Europa" tvg-name="TVG América",TVG América
 https://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CNNee/picture?width=320&height=320" group-title="Int. Europa" tvg-name="CNN Internacional",CNN Internacional
